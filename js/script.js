@@ -37,8 +37,32 @@ $(document).ready(function () {
     });
     $('#p3').click(function () {
         $('#p3').hide();
-    }); 
+    });
+
 
 
 
 });
+$(document).ready(function () {
+    $('.overlay').mouseover(function () {
+        $('#text').show();
+    }).mouseout(function () {
+        $('#text').hide();
+    });
+});
+
+
+$(document).ready(function () {
+    $('#submit').click(function () {
+        var Name = $('#Name').val();
+        var Email = $('#Email').val();
+        var Message = $('#Message');
+        if (Name == '' || Email == '' || Message == '') {
+            alert('Please make sure you have filled in the form correctly!');
+        } else {
+            alert(' Hi ' + Name + ' We have received your message. Thank you for reaching out to us.');
+        }
+
+    });
+});
+

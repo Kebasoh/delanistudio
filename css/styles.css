@@ -48,7 +48,7 @@ p{
     
     background-repeat: no-repeat;
     background-size: cover;
-    height: 40vh;
+    height: 50vh;
     background-image: url("../images/assets/backgrounds/s_image.jpg");
 }
 
@@ -104,4 +104,42 @@ p{
 }
 #portfolio h1{
     margin-top: 10%;
+}
+.contacts{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    background-image: url("../images/assets/backgrounds/c_image.jpg");
+}
+.contacts h1{
+    text-align: center;
+    font-weight: bold;
+    color:white;
+
+}
+#text {
+	width: 160px;
+	height: 160px;
+	background-color: #ffffff;
+	border-radius: 15px;
+	z-index: 1;
+	opacity: 0.2;
+	position: absolute;
+	top: 2em;
+	left: 3em;
+	display: none;
+	color: rgb(1, 24, 24);
+	font-size: 20px;
+}
+input,
+textarea {
+	color: white;
+}
+#Name,
+#Email,
+#Message {
+    color: white;
+    background-color: #ffffff;
 }
