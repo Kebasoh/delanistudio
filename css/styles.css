@@ -15,26 +15,23 @@
 	color: white;
 }
 h4{
-    text-align: center;
-    
+    text-align: center;    
 }
 .mouse{
     margin-top: 200px;
 }
 #aboutus h2{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 p{
     text-align: center;
     font-size: 20px;
 }
-#services h3{
+h3{
     text-align: center;
     color: white;
     padding: 50px;
-    font-weight: bolder;
-    font-size: 70px;
 
 
 }
@@ -45,6 +42,8 @@ p{
     height: 40vh;
     background-image: url("https://bit.ly/2PA9eVg");
 }
+
+
 #services p{
     color: white;
     text-align: center;
@@ -52,15 +51,27 @@ p{
     font-size: 20px;
 
 }
+
+
 .icons h5{
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
+}
+.icons h2{
+    text-align: center;
+    font-size: 20px;
     margin-top: 5%;
+    margin-left: 10%;
 }
 .icons img{
     margin-top: 20%;
     margin-left: 50%;
 }
-h2{
-    text-align: center;
+
+#aboutus span{
+    font-weight: bolder;
+}
+#p1{
+    display: none;
+    color:black;
 }
