@@ -29,9 +29,9 @@
   - WHAT WE DO:At the section of what we do you can toggle and see what we do.
 
   - PORTFOLIO:Th portfolio basically shows the logos of our website.
-  
+
   - CONTACTS:AT The contacts section we have where you insert you name,emailand massege.
-  - 
+  - The website is responsive in that it when you input and submit an alert pop up will say that you hav submitted succefull. There is also a toggle effect where by on click image a paragraph will appear.
 
   
 </video>
