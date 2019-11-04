@@ -18,7 +18,7 @@
  - JAVASCRIPT-We used javascript for dynamics.
 
 ## BDD.
-  <img src="https://lh3.googleusercontent.com/7q8bghbHXBTJslYMW6e036VURi3UrLZ4dQmW2cn03RAf6KfTk9_sCnS6pSC05Pa35eqL-NaYjxj2S3Ufa2q3=w640-h360-pd-k-rw" class="ndfHFb-c4YZDc-aTv5jf-bVEB4e-RJLb9c" alt="Displaying thumbnail of video delani- what we do.mov">
+  <img src="images/assets/screen.jpg">
   - 
   
 </video>
