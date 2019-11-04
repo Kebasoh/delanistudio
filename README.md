@@ -19,7 +19,15 @@
 
 ## BDD.
   <img src="images/assets/screen.jpg">
+
+  - My Delani studio is basically a one page website that offers services to people easly.
+  - ABOUT US:The about us basically explains about our website and what we do.
+  - SERVICES:At the services section we get to know want services that we offer.
+  - WHAT WE DO:At the section of what we do you can toggle and see what we do. 
+  - PORTFOLIO:Th portfolio basically shows the logos of our website.
+  - CONTACTS:AT The contacts section we have where you insert you name,emailand massege.
   - 
+
   
 </video>
 
